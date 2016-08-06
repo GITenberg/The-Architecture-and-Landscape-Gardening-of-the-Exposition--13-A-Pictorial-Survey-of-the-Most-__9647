@@ -1,0 +1,30 @@
+_repo: The-Architecture-and-Landscape-Gardening-of-the-Exposition--13-A-Pictorial-Survey-of-the-Most-__9647
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Mullgardt, Louis Christian
+    birthdate: 1866
+    deathdate: 1942
+    gutenberg_agent_id: '3113'
+    url: http://www.gutenberg.org/2009/agents/3113
+    wikipedia: http://en.wikipedia.org/wiki/Louis_Christian_Mullgardt
+description: ''
+gutenberg_bookshelf: Horticulture
+gutenberg_issued: '2006-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9647'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Landscape architecture -- Exhibitions'
+- !lcsh 'Architecture -- Exhibitions'
+- !lcsh 'Panama-Pacific International Exposition (1915 : San Francisco, Calif.)'
+- !lcc 'TC'
+- GITenberg
+title: "The Architecture and Landscape Gardening of the Exposition\r\nA Pictorial\
+  \ Survey of the Most Beautiful Achitectural Compositions of the Panama-Pacific International\
+  \ Exposition"
+url: http://www.gutenberg.org/ebooks/9647
